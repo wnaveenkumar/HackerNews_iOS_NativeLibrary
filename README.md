@@ -1,1 +1,3 @@
-This app demonstrates the capability of Kony AppPlatform to generate native iOS frameworks from Kony Apps. A basic “app review prompt” Kony app is integrated  into a HackerNews iOS app from public git. This Kony library helps provide feedback for the app.
+There is no IOS functionality in tyhe followin g kony App .
+Theyt have give nthe xcode im p,lementation in Objective c or Sifty 
+But there is no call for the objective c ion The kony side in the app geven in the reposiory
